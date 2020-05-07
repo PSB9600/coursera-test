@@ -1,40 +1,6 @@
-        * {
-		box-sizing:border-box;
-	}
-    
-	h1 {
-	        text-align:center;
-		font-family:Serif Sans-Serif;
-		color:black;
-		margin-bottom:25px;
-		font-size:300%;
-
-	}
-
-	h2{
-		position:relative;
-		float:right;
-		padding:5px;
-		border:1px solid black;
-		margin-top:16px;
-		width:auto;
-		height:auto;
-		margin-right: 4.5%;
-		font-size:130%;
-		text-align:center;
-		
-	}
-	p {
-		
-		margin-left:auto;
-		margin-right:auto;
-		padding:5px;
-		color:black;
-		width:91.2%;
-		/*height:225px;*/
-		text-align:left;
-		font-family: Helvetica;
-		border:1px solid black;
-		background-color:#696969;
-		font-size:100%;	
-	}
+body {
+	font-size:16px;
+	color:white;
+	background-color: red;
+	font-family: 'Oxygen', sans-serif;
+}
